@@ -101,6 +101,7 @@ namespace OfficeCleaner9
             switch (direction)
             {
                 case 'N':
+                    // Pour Aurore
                     for (int i = 0; i < steps; i++)
                     {
                         //if robot is at the boundary of the floor it just stops there and wait for next direction 
