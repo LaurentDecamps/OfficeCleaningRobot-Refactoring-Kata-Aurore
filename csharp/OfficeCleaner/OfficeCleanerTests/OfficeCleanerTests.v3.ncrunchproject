@@ -1,3 +1,204 @@
 ﻿<ProjectConfiguration>
-  <Settings />
+  <Settings>
+    <IgnoredTests>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner10Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner10Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner10Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner10Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner10Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner10Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner11Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner11Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner11Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner11Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner11Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner11Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner12Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner12Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner12Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner12Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner12Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner12Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner1Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner1Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner1Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner1Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner1Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner1Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner2Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner2Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner2Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner2Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner2Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner2Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner3Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner3Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner3Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner3Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner3Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner3Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner4Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner4Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner4Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner4Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner4Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner4Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner5Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner5Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner5Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner5Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner5Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner5Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner6Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner6Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner6Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner6Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner6Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner6Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner7Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner7Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner7Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner7Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner7Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner7Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner8Test("Input_empty.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner8Test("Input_given_sample.txt", "=&gt; Cleaned: 4")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner8Test("Input_large.txt", "=&gt; Cleaned: 1047")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner8Test("Input_one.txt", "=&gt; Cleaned: 1")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner8Test("Input_only_west.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>OfficeCleanerTests.OfficeCleanerTests.OfficeCleaner8Test("Input_wiping.txt", "=&gt; Cleaned: 9")</TestName>
+      </NamedTestSelector>
+    </IgnoredTests>
+  </Settings>
 </ProjectConfiguration>
